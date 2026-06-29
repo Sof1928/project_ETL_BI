@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//c/Users/SOFIEN/AppData/Local/Temp/ClaudeCodeVS_Session/70bcd659-e3e7-4102-8fa8-b7fa3f5de7da/**)",
-      "Bash(sqlcmd *)"
-    ]
-  }
-}
